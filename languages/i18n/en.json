@@ -605,7 +605,7 @@
 	"nosuchsectiontext": "You tried to edit a section that does not exist.\nIt may have been moved or deleted while you were viewing the page.",
 	"loginreqtitle": "Login required",
 	"loginreqlink": "log in",
-	"loginreqpagetext": "Please [https://api.tnyu.org/v2/auth/facebook login] to the API in order to view other pages.",
+	"loginreqpagetext": "Please [https://api.tnyu.org/v2/auth/facebook?success=http://wiki.techatnyu.org/ login] to the API in order to view other pages.",
 	"accmailtitle": "Password sent",
 	"accmailtext": "A randomly generated password for [[User talk:$1|$1]] has been sent to $2. It can be changed on the <em>[[Special:ChangePassword|change password]]</em> page upon logging in.",
 	"newarticle": "(New)",
